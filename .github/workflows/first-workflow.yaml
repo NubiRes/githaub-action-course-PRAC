@@ -23,4 +23,4 @@ jobs:
             - name: echs a string
               run: Write-Output "Window String"
             - name: Error Step
-              run: doesnotexists
+              run: doesnotexistssss
